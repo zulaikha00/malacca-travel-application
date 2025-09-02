@@ -26,7 +26,7 @@ Malacca Travel Application with Personalized Recommendations using Content-Based
 ## 🏗️ Architecture
 
 ### Frontend (Flutter)
-- **Cross-platform**: iOS, Android, Web support
+- **Cross-platform**: Android
 - **State Management**: Provider pattern for app-wide state
 - **Responsive Design**: Adaptive UI for different screen sizes
 - **Modern UI**: Material Design 3 with custom theming
