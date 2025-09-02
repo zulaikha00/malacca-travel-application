@@ -1,6 +1,5 @@
-# 🏛️ MyMelaka - Smart Travel Recommendation App
+Malacca Travel Application with Personalized Recommendations using Content-Based Filtering
 
-A Flutter-based mobile application that provides personalized recommendations for places to visit in Melaka, Malaysia using **Content-Based Filtering** and **Machine Learning**.
 
 ## 📱 Features
 
@@ -52,13 +51,12 @@ A Flutter-based mobile application that provides personalized recommendations fo
 - **Firebase Account**: For backend services
 - **Google Cloud Platform**: For Maps API and Places API
 
-### Installation
+Installation
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/fyp25.git
-   cd fyp25
-   ```
+  git clone https://github.com/zulaikha00/malacca-travel-application.git
+   cd malacca-travel-application   ```
 
 2. **Install Flutter Dependencies**
    ```bash
@@ -111,142 +109,4 @@ python beach_places.py
 python mosque.py
 ```
 
-## 📁 Project Structure
 
-```
-fyp25/
-├── lib/                          # Main Flutter application code
-│   ├── main.dart                # App entry point
-│   ├── page/                    # Main app pages
-│   │   ├── homepage.dart        # Home screen with recommendations
-│   │   ├── recommendation_service.dart  # Core recommendation logic
-│   │   └── recommendation_places.dart   # Recommendation display
-│   ├── places/                  # Place-related screens
-│   ├── profile/                 # User profile management
-│   ├── admin/                   # Admin panel for place management
-│   ├── search/                  # Search functionality
-│   ├── navigation/              # Bottom navigation
-│   ├── theme/                   # App theming
-│   └── widgets/                 # Reusable UI components
-├── lib/scrape/                  # Python ML scripts
-│   ├── try.py                   # Main ML tag generation script
-│   ├── melaka_places.py         # Scrape general places
-│   ├── beach_places.py          # Scrape beach locations
-│   ├── mosque.py                # Scrape religious places
-│   └── upload_to_firestore.py   # Data upload utilities
-├── assets/                      # Images and static resources
-├── android/                     # Android-specific configuration
-├── ios/                         # iOS-specific configuration
-└── test/                        # Unit and widget tests
-```
-
-## 🔧 Configuration
-
-### Firebase Configuration
-```dart
-// lib/main.dart
-void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
-  // ... rest of initialization
-}
-```
-
-### Google Maps Configuration
-```xml
-<!-- android/app/src/main/AndroidManifest.xml -->
-<meta-data
-    android:name="com.google.android.geo.API_KEY"
-    android:value="YOUR_API_KEY"/>
-```
-
-### ML Model Configuration
-```python
-# lib/scrape/try.py
-zero_shot_classifier = pipeline(
-    "zero-shot-classification", 
-    model="facebook/bart-large-mnli"
-)
-```
-
-## 📊 Content-Based Filtering Implementation
-
-### How It Works
-1. **User Profile Creation**: Builds user preference vector from likes and preferences
-2. **TF-IDF Calculation**: Computes term frequency and inverse document frequency
-3. **Vector Similarity**: Uses cosine similarity to match user profile with places
-4. **Recommendation Ranking**: Sorts places by similarity score and relevance
-
-### Key Algorithms
-- **TF-IDF**: Term Frequency-Inverse Document Frequency for tag weighting
-- **Cosine Similarity**: Measures angle between user and place vectors
-- **Zero-Shot Classification**: ML-based tag prediction for places
-
-## 🧪 Testing
-
-### Flutter Tests
-```bash
-# Run unit tests
-flutter test
-
-# Run specific test file
-flutter test test/widget_test.dart
-```
-
-### ML Accuracy Testing
-```bash
-cd lib/testing
-python cbf_accuracy_tester.py
-```
-
-## 📱 Screenshots
-
-[Add screenshots of your app here]
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name** - Final Year Project (FYP25)
-- **University**: UiTM
-- **Course**: [Your Course Name]
-- **Supervisor**: [Supervisor Name]
-
-## 🙏 Acknowledgments
-
-- **Flutter Team** for the amazing framework
-- **Firebase** for backend services
-- **HuggingFace** for ML models
-- **Google** for Maps and Places APIs
-- **Open Source Community** for various packages
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. **Check the Issues** section on GitHub
-2. **Create a new issue** with detailed description
-3. **Contact the author** at [your.email@example.com]
-
-## 🔮 Future Enhancements
-
-- [ ] Collaborative filtering implementation
-- [ ] Real-time notifications
-- [ ] Offline mode support
-- [ ] Multi-language support
-- [ ] Advanced analytics dashboard
-- [ ] Social features (reviews, ratings)
-
----
-
-**Made with ❤️ for Melaka Tourism**
