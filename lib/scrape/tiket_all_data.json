@@ -1,0 +1,865 @@
+[
+    {
+        "title": "Encore Melaka Admission Ticket",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/10/24/618fd7ec-0b13-48c0-9d19-b9af9c1e1da1-1729706136688-5e323169721c8c4056f20f8bc554f221.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "The Legacy of a Generation - Malaysian",
+                "tickets": [
+                    {
+                        "type": "Senior",
+                        "description": "",
+                        "price": "MYR 48.32"
+                    },
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 68.45"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 48.32"
+                    }
+                ]
+            },
+            {
+                "package_name": "Encore Melaka Live Show - Malaysian",
+                "tickets": [
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 48.32"
+                    },
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 68.45"
+                    },
+                    {
+                        "type": "Senior",
+                        "description": "",
+                        "price": "MYR 48.32"
+                    }
+                ]
+            },
+            {
+                "package_name": "The Legacy of a Generation - Non-Malaysian",
+                "tickets": [
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 138.92"
+                    },
+                    {
+                        "type": "Senior",
+                        "description": "",
+                        "price": "MYR 138.92"
+                    },
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 138.92"
+                    }
+                ]
+            },
+            {
+                "package_name": "Encore Melaka Live Show - Non-Malaysian",
+                "tickets": [
+                    {
+                        "type": "Senior",
+                        "description": "",
+                        "price": "MYR 138.92"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 138.92"
+                    },
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 138.92"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-encore-melaka-admission-ticket-61761"
+    },
+    {
+        "title": "Melaka Menara Taming Sari Tower",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/03/20/6ecec47f-5af4-4729-aa6e-3db5108e9739-1710873918089-7bf9bc798eb367e85ab931cf30ebe01d.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Admission Ticket - MyKad (9:00 AM – 6:00 PM)",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 20.13"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 15.10"
+                    }
+                ]
+            },
+            {
+                "package_name": "Admission Ticket - Non MyKad (9:00 AM – 6:00 PM)",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 26.17"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 18.12"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-taming-sari-tower-40333"
+    },
+    {
+        "title": "Traditional Nyonya Dessert Cooking Class in Melaka",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/07/04/a3868095-bea5-4612-a439-f756ae385005-1720055751426-014df71df6c7ccb1fe3e7617dfc7ebc0.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Cooking Class",
+                "tickets": [
+                    {
+                        "type": "Person",
+                        "description": "",
+                        "price": "MYR 63.46"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-traditional-nyonya-dessert-cooking-class-in-melaka"
+    },
+    {
+        "title": "Ghost Museum Melaka Ticket",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2024/12/02/ecff76b5-9936-4db7-ad00-571349c7dfd8-1733111603050-192efbf3a24310e543e6f6888a7071de.png"
+        ],
+        "packages": [
+            {
+                "package_name": "Ghost Museum Melaka - Admission from Mondays to Thursdays (Malaysian Citizens)",
+                "tickets": [
+                    {
+                        "type": "ADULT",
+                        "description": "Ages 13 - 60",
+                        "price": "MYR 24.02"
+                    },
+                    {
+                        "type": "CHILD",
+                        "description": "Ages 3 - 12",
+                        "price": "MYR 16.16"
+                    },
+                    {
+                        "type": "SENIOR",
+                        "description": "Ages 61 - 99",
+                        "price": "MYR 16.16"
+                    }
+                ]
+            },
+            {
+                "package_name": "Ghost Museum Melaka - Admission from Fridays to Sundays and Public Holidays (Malaysian Citizens)",
+                "tickets": [
+                    {
+                        "type": "ADULT",
+                        "description": "Ages 13 - 60",
+                        "price": "MYR 26.03"
+                    },
+                    {
+                        "type": "CHILD",
+                        "description": "Ages 3 - 12",
+                        "price": "MYR 18.20"
+                    },
+                    {
+                        "type": "SENIOR",
+                        "description": "Ages 61 - 99",
+                        "price": "MYR 18.20"
+                    }
+                ]
+            },
+            {
+                "package_name": "Ghost Museum Melaka - Admission from Mondays to Thursdays (International Travellers)",
+                "tickets": [
+                    {
+                        "type": "ADULT",
+                        "description": "Ages 13 - 60",
+                        "price": "MYR 35.01"
+                    },
+                    {
+                        "type": "CHILD",
+                        "description": "Ages 3 - 12",
+                        "price": "MYR 24.02"
+                    },
+                    {
+                        "type": "SENIOR",
+                        "description": "Ages 61 - 99",
+                        "price": "MYR 24.02"
+                    }
+                ]
+            },
+            {
+                "package_name": "Ghost Museum Melaka - Admission from Fridays to Sundays and Public Holidays (International Travellers)",
+                "tickets": [
+                    {
+                        "type": "ADULT",
+                        "description": "Ages 13 - 60",
+                        "price": "MYR 37.05"
+                    },
+                    {
+                        "type": "CHILD",
+                        "description": "Ages 3 - 12",
+                        "price": "MYR 26.03"
+                    },
+                    {
+                        "type": "SENIOR",
+                        "description": "Ages 61 - 99",
+                        "price": "MYR 26.03"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-ghost-museum-melaka"
+    },
+    {
+        "title": "Traditional Costume Experience in Malacca",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/07/05/8665491c-d42d-4371-89df-87cfac5ff34f-1720149232432-da7728e97e4a56b46fb6a3b86a5dcdcf.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Batik Shirt for Men",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 32.66"
+                    }
+                ]
+            },
+            {
+                "package_name": "Kebaya Nyonya Costume",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 44.33"
+                    },
+                    {
+                        "type": "Child(1-12)",
+                        "description": "",
+                        "price": "MYR 44.79"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-traditional-costume-experience-in-malacca"
+    },
+    {
+        "title": "Ghost Museum Melaka Ticket",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/07/08/c2177ce0-84d4-4a31-97e5-6926e7eb828d-1720402665842-3c782f8b720708be5df9b0dabae287f3.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Weekday Admission Ticket",
+                "tickets": [
+                    {
+                        "type": "Malaysian Adult (Aged 13+)",
+                        "description": "",
+                        "price": "MYR 22.40"
+                    },
+                    {
+                        "type": "Malaysian Child (aged 3-12)",
+                        "description": "",
+                        "price": "MYR 14.93"
+                    },
+                    {
+                        "type": "Non-Malaysian Adult (Aged 13+)",
+                        "description": "",
+                        "price": "MYR 32.66"
+                    },
+                    {
+                        "type": "Non-Malaysian Child (aged 3-12)",
+                        "description": "",
+                        "price": "MYR 22.40"
+                    }
+                ]
+            },
+            {
+                "package_name": "Weekend and School / Public Holiday Admission Ticket",
+                "tickets": [
+                    {
+                        "type": "Malaysian Adult (Aged 13+)",
+                        "description": "",
+                        "price": "MYR 24.26"
+                    },
+                    {
+                        "type": "Malaysian Child (aged 3-12)",
+                        "description": "",
+                        "price": "MYR 16.80"
+                    },
+                    {
+                        "type": "Non-Malaysian Adult (Aged 13+)",
+                        "description": "",
+                        "price": "MYR 34.53"
+                    },
+                    {
+                        "type": "Non-Malaysian Child (aged 3-12)",
+                        "description": "",
+                        "price": "MYR 24.26"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-ghost-museum-melaka-ticket"
+    },
+    {
+        "title": "SKYTREX Adventure Melaka",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/07/23/51b9b71c-d5bf-4aa7-b5df-354f0bbfc328-1627016249868-b7e53b9d44b97f273a19f63e982de27a.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "[Beginner Level] Little Dino",
+                "tickets": [
+                    {
+                        "type": "Person",
+                        "description": "",
+                        "price": "MYR 65.32"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-skytrex-adventure-melaka"
+    },
+    {
+        "title": "Melaka Crocodile and Recreation Park Ticket",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/07/01/ad884af2-8eb2-4a51-a1d0-cfcdd77b8b6f-1719831761316-cc09344c69dd7bd416003c9032590122.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Admission Ticket (Weekdays)",
+                "tickets": [
+                    {
+                        "type": "Malaysian Adult (aged 13-54)",
+                        "description": "",
+                        "price": "MYR 15.86"
+                    },
+                    {
+                        "type": "Malaysian Child (aged 5-12)",
+                        "description": "",
+                        "price": "MYR 11.20"
+                    },
+                    {
+                        "type": "Non-Malaysian Adult (aged 13-54)",
+                        "description": "",
+                        "price": "MYR 17.50"
+                    },
+                    {
+                        "type": "Non-Malaysian Child (aged 5-12)",
+                        "description": "",
+                        "price": "MYR 14.58"
+                    }
+                ]
+            },
+            {
+                "package_name": "Admission Ticket (Weekends/Public & School Holidays)",
+                "tickets": [
+                    {
+                        "type": "Malaysian Adult (aged 13-54)",
+                        "description": "",
+                        "price": "MYR 17.73"
+                    },
+                    {
+                        "type": "Malaysian Child (aged 5-12)",
+                        "description": "",
+                        "price": "MYR 14.00"
+                    },
+                    {
+                        "type": "Non-Malaysian Adult (aged 13-54)",
+                        "description": "",
+                        "price": "MYR 17.50"
+                    },
+                    {
+                        "type": "Non-Malaysian Child (aged 5-12)",
+                        "description": "",
+                        "price": "MYR 14.58"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-melaka-crocodile-and-recreation-park-ticket"
+    },
+    {
+        "title": "Upside Down House Gallery Melaka Ticket",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/03/20/290d4de9-7e6f-434f-974d-1af1441ce6df-1710874111365-f2c378f5fca401e5d007032e65b9e64b.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Ticket",
+                "tickets": [
+                    {
+                        "type": "Senior",
+                        "description": "",
+                        "price": "MYR 10.77"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 10.77"
+                    },
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 14.38"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-upside-down-house-gallery-melaka-52735"
+    },
+    {
+        "title": "CoComelon Indoor Playground Ticket in Melaka",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/07/06/9a5276d4-f911-4430-a4d5-51c680a8c54d-1720237901329-12a65207f1221518dc0b45a1c7a221bc.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Admission for CoComelon Playground",
+                "tickets": [
+                    {
+                        "type": "[Weekday] 1 Adult & 1 Child (Aged 1-17)",
+                        "description": "",
+                        "price": "MYR 37.68"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-cocomelon-indoor-playground-ticket-in-melaka"
+    },
+    {
+        "title": "Encore Melaka Impression Series Ticket",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/07/19/61d55fd0-cad7-48f6-b41c-09fd2786a02b-1721324912043-54c3050d4765754e6ae23e17af780690.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Encore Melaka Show",
+                "tickets": [
+                    {
+                        "type": "[Malaysian] Adult (Aged 13-59)",
+                        "description": "",
+                        "price": "MYR 61.82"
+                    },
+                    {
+                        "type": "[Malaysian] Senior (60+) / Child (4-12) / OKU",
+                        "description": "",
+                        "price": "MYR 44.33"
+                    },
+                    {
+                        "type": "[Non-Malaysian] Adult (Aged 13-59)",
+                        "description": "",
+                        "price": "MYR 104.98"
+                    },
+                    {
+                        "type": "[Non-Malaysian] Senior (60+) / Child (4-12) / OKU",
+                        "description": "",
+                        "price": "MYR 104.98"
+                    }
+                ]
+            },
+            {
+                "package_name": "The Legacy of a Generation Show",
+                "tickets": [
+                    {
+                        "type": "[Malaysian] Adult (Aged 13-59)",
+                        "description": "",
+                        "price": "MYR 61.82"
+                    },
+                    {
+                        "type": "[Malaysian] Senior (60+) / Child (4-12) / OKU",
+                        "description": "",
+                        "price": "MYR 44.33"
+                    },
+                    {
+                        "type": "[Non-Malaysian] Adult (Aged 13-59)",
+                        "description": "",
+                        "price": "MYR 104.98"
+                    },
+                    {
+                        "type": "[Non-Malaysian] Senior (60+)/ Child (4-12)/ OKU",
+                        "description": "",
+                        "price": "MYR 104.98"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-encore-melaka-impression-series-ticket"
+    },
+    {
+        "title": "Breakout Escape Room Experience in The Shore Melaka",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/07/04/0607ec2f-bb22-4ea2-b0f2-0c8026ce65df-1720050747818-28d239830a46a9502bff054e0fb33b80.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Breakout Melaka The Real Escape Room Experience",
+                "tickets": [
+                    {
+                        "type": "Group of 2 (per Person) *not applicable for Capsule & Missing Case of Melaka",
+                        "description": "",
+                        "price": "MYR 49.57"
+                    },
+                    {
+                        "type": "Group of 3-4 (per Person)",
+                        "description": "",
+                        "price": "MYR 44.62"
+                    },
+                    {
+                        "type": "Group 5-6 (per Person)",
+                        "description": "",
+                        "price": "MYR 38.67"
+                    },
+                    {
+                        "type": "Group 7-8 (per Person)",
+                        "description": "",
+                        "price": "MYR 37.68"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-breakout-escape-room-experience-in-the-shore-melaka"
+    },
+    {
+        "title": "Melaka Wonderland",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/08/13/7c902ca0-0248-4237-84f7-cd649a1a2aaf-1723487681936-e843c663473d68fd90ad244f26eb402f.png"
+        ],
+        "packages": [
+            {
+                "package_name": "Entrance Ticket (WEEKDAY)- MYKAD",
+                "tickets": [
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 34.22"
+                    },
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 41.25"
+                    }
+                ]
+            },
+            {
+                "package_name": "Entrance Ticket (WEEKEND/School Holiday/Public Holiday)- MYKAD",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 45.78"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 39.25"
+                    }
+                ]
+            },
+            {
+                "package_name": "Entrance Ticket (ALL DAY)- NON-MYKAD",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 52.33"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 45.78"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-melaka-wonderland-58152"
+    },
+    {
+        "title": "Malaysia Heritage Studios Ticket in Malacca",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2023/11/30/66cb2266-1391-4393-af9b-d7bdb40d9b3c-1701330230799-cc98438d475c31417f40d42f7ff0d834.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Ticket",
+                "tickets": [
+                    {
+                        "type": "Malaysian Adult",
+                        "description": "",
+                        "price": "MYR 50.17"
+                    },
+                    {
+                        "type": "Malaysian Child (4-12)/Senior (60+)",
+                        "description": "",
+                        "price": "MYR 39.07"
+                    },
+                    {
+                        "type": "Non-Malaysian Adult",
+                        "description": "",
+                        "price": "MYR 75.59"
+                    },
+                    {
+                        "type": "Non-Malaysian Child (4-12)/Senior (60+)",
+                        "description": "",
+                        "price": "MYR 58.79"
+                    },
+                    {
+                        "type": "Malaysian OKU",
+                        "description": "",
+                        "price": "MYR 33.47"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-malaysia-heritage-studios-ticket-in-malacca"
+    },
+    {
+        "title": "A'famosa Melaka",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/03/20/e99f929f-1943-429d-9a6f-ffbb8512315c-1710873709717-2c2aff024bebc0e9b483aa0cb69cf3b7.jpeg"
+        ],
+        "packages": [
+            {
+                "package_name": "Malaysian - Water Theme Park Admission",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 49.33"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 39.26"
+                    }
+                ]
+            },
+            {
+                "package_name": "Malaysian - Safari Wonderland Admission",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 65.43"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 55.37"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-a-famosa-malacca-34129"
+    },
+    {
+        "title": "Zoo Melaka",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/03/20/5b4e73ca-3f64-4ca4-be3f-eb8ceb67dd48-1710874141296-66e4219408790c96476e93677123151f.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Ticket - Malaysian",
+                "tickets": [
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 18.83"
+                    },
+                    {
+                        "type": "Senior",
+                        "description": "",
+                        "price": "MYR 18.83"
+                    },
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 37.65"
+                    }
+                ]
+            },
+            {
+                "package_name": "Ticket - Non Malaysian",
+                "tickets": [
+                    {
+                        "type": "Senior",
+                        "description": "",
+                        "price": "MYR 60.90"
+                    },
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 86.37"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 60.90"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-zoo-melaka-45650"
+    },
+    {
+        "title": "Jaya Mata Knife Gallery Admission in Melaka",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2024/02/06/257c7bec-6e2b-40c2-ac0b-f6ba518922f4-1707211978870-e0a6d42026b6f983d277c7ad87823a79.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Admission",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 14.00"
+                    },
+                    {
+                        "type": "Child(7-18)",
+                        "description": "",
+                        "price": "MYR 9.33"
+                    },
+                    {
+                        "type": "Senior(60-99)",
+                        "description": "",
+                        "price": "MYR 9.33"
+                    }
+                ]
+            },
+            {
+                "package_name": "Family Package (Buy 1 Adult, Child Get 50% OFF)",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 14.00"
+                    },
+                    {
+                        "type": "Child(7-18)",
+                        "description": "",
+                        "price": "MYR 4.67"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-jaya-mata-knife-gallery-admission-in-melaka"
+    },
+    {
+        "title": "Wonderpark Melaka - Interactive Indoor Playground",
+        "opening_hours": [],
+        "images": [
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/test-discovery/2024/03/01/ac13e03e-896c-4bbb-ba7c-cdf9b04a68b7-1709290197088-cb26aa8c25b24b1aa5df8bb2edce7ea7.png",
+            "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/03/20/50b28fe4-f114-4fa4-ac83-37c93e03f7bc-1710874146037-35de1e86b038bc562236e47e02b3aa32.jpg"
+        ],
+        "packages": [
+            {
+                "package_name": "Weekday",
+                "tickets": [
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 22.55"
+                    },
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 22.55"
+                    }
+                ]
+            },
+            {
+                "package_name": "Weekend",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 28.19"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 28.19"
+                    }
+                ]
+            },
+            {
+                "package_name": "Public Holidays",
+                "tickets": [
+                    {
+                        "type": "Adult",
+                        "description": "",
+                        "price": "MYR 28.19"
+                    },
+                    {
+                        "type": "Child",
+                        "description": "",
+                        "price": "MYR 28.19"
+                    }
+                ]
+            }
+        ],
+        "source": "https://en.tiket.com/to-do/tiket-wonderpark-melaka-interactive-indoor-playground-41472"
+    }
+]
