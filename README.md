@@ -55,8 +55,9 @@ Installation
 
 1. **Clone the Repository**
    ```bash
-  git clone https://github.com/zulaikha00/malacca-travel-application.git
-   cd malacca-travel-application   ```
+   git clone https://github.com/zulaikha00/malacca-travel-application.git
+   cd malacca-travel-application
+    ```
 
 2. **Install Flutter Dependencies**
    ```bash
